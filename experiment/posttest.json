@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Compute the maximum deflection at free end of a cantilever beam subjected to udl for entire span of l metres",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "wl<sup>4</sup>/8EI",
+        "b": "wl<sup>4</sup>/4EI",
+        "c": "wl<sup>3</sup>/8EI",
+        "d": "wl<sup>2</sup>/6EI"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+     
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Calculate the maximum deflection of a cantilever beam with udl on entire span of 3m the intensity of you udl be 25 kN/m. Take EI as 4000 kN/m<sup>2</sup>",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "0.052m",
+        "b": "0.063m",
+        "c": "0.076m",
+        "d": "0.09m"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A cantilever is a beam whose",
+      "answers": {
+        "a": "Both ends are supported either on rollers or hinges",
+        "b": "Both ends are fixed",
+        "c": "One end is fixed and other end is free",
+        "d": "Whose both or one of the end has overhang"
       },
+     
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In a cantilever subjected to a concentrated load (W) at the free end and having length =l, Maximum bending moment is",
+      "answers": {
+        "a": "Wl at the free end",
+        "b": "Wl at the fixed end",
+        "c": "Wl/2 at the fixed end",
+        "d": "Wl at the free end"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Point of contra-flexure is a",
+      "answers": {
+        "a": "Point where Shear force is maximum",
+        "b": "Point where Bending moment is maximum",
+        "c": "Point where Bending moment is zero",
+        "d": "Point where Bending moment=0 but also changes sign from positive to negative"
+      },
+     
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
