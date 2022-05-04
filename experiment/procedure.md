@@ -3,7 +3,7 @@
 1. Please read General Theory and Background related to this experiment.
 This section explains the experimental set-up, procedure, observations and analysis related to the experiment.
 
-2. **Experimental set-up**
+2. **Experimental set-up**\
 A. **Apparatus:**
 
 Following apparatus will be used to perform the real experiment:
