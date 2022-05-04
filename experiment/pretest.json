@@ -50,7 +50,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "5.	The maximum deflection in cantilever beam of span “l”m and loading at free end is “W” kN.",
+      "question": "The maximum deflection in cantilever beam of span "l"m and loading at free end is "W" kN.",
       "answers": {
         "a": "Wl<sup>3</sup>/2EI",
         "b": "Wl<sup>2</sup>/2EI",
