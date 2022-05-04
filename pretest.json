@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The ratio of maximum deflection of a beam to its ___________ is called stiffness of the beam.",
+      "answers": {
+        "a": "Load",
+        "b": "Slope",
+        "c": "Span",
+        "d": "Reaction at the support"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Stiffness of the beam is inversely proportional to the _____ of the beam.",
+      "answers": {
+        "a": "Slope",
+        "b": "Support reaction",
+        "c": "Deflection",
+        "d": "Load"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The maximum ____ should not exceed the permissible limit to the span of the beam.",
+      "answers": {
+        "a": "Slope",
+        "b": "Deflection",
+        "c": "Load",
+        "d": "Bending moment"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In cantilever beam the deflection occurs at ______",
+      "answers": {
+        "a": "Free end",
+        "b": "Point of loading",
+        "c": "Throughout",
+        "d": "Fixed end"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The maximum deflection in cantilever beam of span 'l'm and loading at free end is 'W' kN.",
+      "answers": {
+        "a": "Wl<sup>3</sup>/2EI",
+        "b": "Wl<sup>2</sup>/2EI",
+        "c": "Wl<sup>3</sup>/4EI",
+        "d": "Wl<sup>3</sup>/3EI"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
